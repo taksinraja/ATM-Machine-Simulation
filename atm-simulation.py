@@ -298,7 +298,7 @@ if __name__ == "__main__":
     window.geometry("660x450")
     window.configure(bg='systemTransparent')
     
-    title_bar_icon = tk.PhotoImage(file="App Icon.png")
+    title_bar_icon = tk.PhotoImage(file="app-icon.png")
     window.iconphoto(False,title_bar_icon)
 
 
